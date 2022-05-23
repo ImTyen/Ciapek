@@ -1,0 +1,15 @@
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\bin\Debug\net6.0\DlaCiapka.exe
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\bin\Debug\net6.0\DlaCiapka.deps.json
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\bin\Debug\net6.0\DlaCiapka.runtimeconfig.json
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\bin\Debug\net6.0\DlaCiapka.dll
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\bin\Debug\net6.0\DlaCiapka.pdb
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.AssemblyInfo.cs
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.dll
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\refint\DlaCiapka.dll
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.pdb
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\DlaCiapka.genruntimeconfig.cache
+C:\Users\micha\Desktop\MichalNauka\DlaCiapka\DlaCiapka\obj\Debug\net6.0\ref\DlaCiapka.dll
